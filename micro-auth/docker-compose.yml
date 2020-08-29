@@ -27,6 +27,7 @@ services:
   db:
     build: ./.docker/mysql
     container_name: micro-auth-db
+    command: "--innodb_use_native_aio=0"
     restart: always
     tty: true
     ports:
