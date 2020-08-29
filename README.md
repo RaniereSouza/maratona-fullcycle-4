@@ -4,7 +4,7 @@
 
 ## Descrição
 
-Maratona FullCycle 4.0
+Maratona FullCycle 4.0 (forked from [codeedu/maratona-fullcycle-4](https://github.com/codeedu/maratona-fullcycle-4))
 
 Sistema de Chat inspirado em Discord/Slack.
 
