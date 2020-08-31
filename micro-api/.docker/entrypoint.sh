@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 cd /home/node/app
 
@@ -8,5 +8,3 @@ fi
 
 npm install
 npm run start:dev
-
-

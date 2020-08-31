@@ -1,0 +1,13 @@
+.npm-cache
+.history
+.idea
+!.env
+!.env.example
+dist/
+build/
+node_modules/
+.vscode/
+.devcontainer/
+media/
+.docker/*
+!.docker/entrypoint.sh
